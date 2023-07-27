@@ -2,7 +2,7 @@
 
 ------
 
-- started out as this
+- ` 🌱 `, started out as this
 
         - A simple project for keeping daily jobs from
           spreadsheet files for later retrieval.
@@ -14,7 +14,7 @@
           non-sql database and also as an opportunity to use it 
           on something.
 
-- now will be aimed at venturing into desktop apps, and integrations.
+- ` 🌳 `, now will be aimed at venturing into **desktop apps**, and **integrations**.
 
 ---
 ##### *( repo previously named Projekt-Telko )
