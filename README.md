@@ -1,4 +1,4 @@
-![github-banner](design\github-banner.png)
+![github-banner](https://github.com/Stroustrups-Sentinel/jottaro/blob/main/design/github-banner.png?raw=true)
 
 ------
 
